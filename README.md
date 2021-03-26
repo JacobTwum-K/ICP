@@ -1,2 +1,2 @@
 # ICP
-Any project work concerning labs
+Any work concerning labs.
